@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sensor.h": "c",
+        "spi.h": "c",
+        "hardwarei2c.h": "c",
+        "hardwarespi.h": "c"
+    }
+}
